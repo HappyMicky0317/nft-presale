@@ -1,0 +1,41 @@
+*******************Start with NonNFT Items************************
+Deploying SeedToken...
+Deploying SeedTokenProxy...
+Seed deployed to: 0x56378A61B60E44c1Cc4d9c8D6861322eE59783a7
+Deploying SkinToken...
+Deploying SkinToken Proxy...
+Seed deployed to: 0x3171394c39c65794d03A93620887d0f80c55f214
+
+*******************Start with Seed*********************************
+Deploying Seed...
+Deploying Seed Proxy...
+Seed deployed to: 0x29C2fDB1599f8a29778F1f55A9C92abebe5e87b2
+
+*******************Start with Skin**********************************
+Deploying Skin...
+Deploying skin Proxy...
+Skin deployed to: 0xD7fE220278c92380325DdF6D688f22af6e7E69f9
+
+*******************Start with Land***********************************
+Deploing Land...
+Deploying Land Proxy...
+Land deployed to: 0xEB14aF6e0d337a4E09A37A68ad4Ef2b3505E5f16
+
+*******************Start with Presale contract************************
+Deploying Presale contract...
+Deploying Presale proxy...
+Presale deployed to: 0x2E8A6Ee05fd40D0bffC2ab2990E030D0aCD4D66c
+
+*******************Set Minter for all NFTs************************
+
+Minter setting complete
+
+*******************!!!!!!Don't forget this addresses!!!!!************
+
+BUSD:  0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56
+NSeed:  0x56378A61B60E44c1Cc4d9c8D6861322eE59783a7
+NSkin:  0x3171394c39c65794d03A93620887d0f80c55f214
+Seed:  0x29C2fDB1599f8a29778F1f55A9C92abebe5e87b2
+Skin:  0xD7fE220278c92380325DdF6D688f22af6e7E69f9
+Land:  0xEB14aF6e0d337a4E09A37A68ad4Ef2b3505E5f16
+Presale:  0x2E8A6Ee05fd40D0bffC2ab2990E030D0aCD4D66c

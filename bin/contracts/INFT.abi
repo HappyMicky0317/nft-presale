@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"string","name":"_tokenURI","type":"string"},{"internalType":"uint256","name":"_tokenMeta","type":"uint256"},{"internalType":"address","name":"_owner","type":"address"}],"name":"mint","outputs":[],"stateMutability":"nonpayable","type":"function"}]
